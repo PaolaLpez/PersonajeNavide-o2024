@@ -1,1 +1,3 @@
-# PersonajeNavide-o2024
+# PersonajeNavideno2024
+Nombre del personaje
+Chucky navideño
