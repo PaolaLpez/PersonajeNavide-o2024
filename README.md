@@ -17,4 +17,4 @@ https://wokwi.com/projects/410146040842273793
 Enlace del vídeo de la simulación en wokwi
 
 # Imagenes de los examenes de cisco
-![Captura de pantalla 2024-09-27 105710](https://github.com/user-attachments/assets/fd1e78cc-e685-4787-a605-3e6cd5c43a25)
+
