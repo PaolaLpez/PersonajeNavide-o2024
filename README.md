@@ -11,5 +11,9 @@ El muñeco chucky navideño utilizará una placa Arduino (ESP32) que, a través 
 Thonny, Arduino
 # Dibujo del personaje
 # Enlaces de simulacion de wokwi
-# Imagenes de los examenes de cisco
+Enlace de simulación de wokwi
+https://wokwi.com/projects/410146040842273793
 
+Enlace del vídeo de la simulación en wokwi
+
+# Imagenes de los examenes de cisco
