@@ -798,8 +798,8 @@ table.MsoTableGrid
 Material | Imágenes | Cantidad | Costo   Aproximado (MXN)
 -- | -- | -- | --
 Placa   ESP32 |  ![Captura de pantalla 2024-09-27 103702](https://github.com/user-attachments/assets/1e9b3ae9-177b-41fa-9ba5-ff1afc3e7ff7) | 1 | $120.00
-LEDs   (varios colores) |   | 5 | $30.00
-Resistor   (220 Ω) |   | 5 | $10.00
+LEDs   (varios colores) | ![Captura de pantalla 2024-09-27 103819](https://github.com/user-attachments/assets/4d757688-1211-4aa2-ab86-bc55738d6b96)  | 5 | $30.00
+Resistor   (220 Ω) | ![Captura de pantalla 2024-09-27 103855](https://github.com/user-attachments/assets/01b1c2b8-3ca4-4f03-beb4-fc4a126cf613)  | 5 | $10.00
 Sensor   de movimiento (PIR) |   | 1 | $80.00
 Altavoz   pequeño o buzzer |   | 1 | $50.00
 Placa   de prototipado (breadboard) |   | 1 | $100.00
