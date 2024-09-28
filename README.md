@@ -800,19 +800,20 @@ Material | Imágenes | Cantidad | Costo   Aproximado (MXN)
 Placa   ESP32 |  ![Captura de pantalla 2024-09-27 103702](https://github.com/user-attachments/assets/1e9b3ae9-177b-41fa-9ba5-ff1afc3e7ff7) | 1 | $120.00
 LEDs   (varios colores) | ![Captura de pantalla 2024-09-27 103819](https://github.com/user-attachments/assets/4d757688-1211-4aa2-ab86-bc55738d6b96)  | 5 | $30.00
 Resistor   (220 Ω) | ![Captura de pantalla 2024-09-27 103855](https://github.com/user-attachments/assets/01b1c2b8-3ca4-4f03-beb4-fc4a126cf613)  | 5 | $10.00
-Sensor   de movimiento (PIR) |   | 1 | $80.00
-Altavoz   pequeño o buzzer |   | 1 | $50.00
-Placa   de prototipado (breadboard) |   | 1 | $100.00
-Cables   de conexión |   | 10 | $30.00
-Fuente   de alimentación (batería o adaptador) |   | 1 | $80.00
-Adhesivos   (silicona caliente, cinta) |   | 1 | $30.00
-Tela   (fieltro o similar) |   | 1 | $50.00
-Relleno   (algodón o espuma) |   | 1   bolsa | $40.00
-Ojos   (plásticos o botones) |   | 2 | $10.00
-Cabello   (lana o sintético) |   | 1   paquete | $20.00
-Pintura   (acrílica) |   | 1   set | $50.00
-Ropa   (camiseta y pantalones) |   | 1   set | $100.00
-Accesorios   (cuchillo, sombrero, etc.) |   | 1   set | $50.00
+Sensor   de movimiento (PIR) | ![Captura de pantalla 2024-09-27 103936](https://github.com/user-attachments/assets/9595b1ee-0fb6-46a2-a583-611dea0d8796)  | 1 | $80.00
+Altavoz   pequeño o buzzer |  ![Captura de pantalla 2024-09-27 104010](https://github.com/user-attachments/assets/264a0932-7573-4294-b8dc-65907782b327) | 1 | $50.00
+Placa   de prototipado (breadboard) |  ![Captura de pantalla 2024-09-27 104037](https://github.com/user-attachments/assets/f6fd3f72-3090-45f7-a104-45751c2c6c02) | 1 | $100.00
+Cables   de conexión | ![Captura de pantalla 2024-09-27 104508](https://github.com/user-attachments/assets/28aff381-7e99-430e-b164-249ed5896db6)
+  | 10 | $30.00
+Fuente   de alimentación (batería o adaptador) |  ![Captura de pantalla 2024-09-27 104546](https://github.com/user-attachments/assets/b3d064f0-0e15-414d-89f0-bf66bff6405c) | 1 | $80.00
+Adhesivos   (silicona caliente, cinta) | ![Captura de pantalla 2024-09-27 104646](https://github.com/user-attachments/assets/b5d11b98-a39d-420a-8bea-009a0a673132)  | 1 | $30.00
+Tela   (fieltro o similar) |  ![Captura de pantalla 2024-09-27 104718](https://github.com/user-attachments/assets/dc2c457c-9921-4ad2-8885-1f10969e298d) | 1 | $50.00
+Relleno   (algodón o espuma) | ![Captura de pantalla 2024-09-27 104744](https://github.com/user-attachments/assets/ccfe5121-528d-4c90-9bb0-a1ce31ad3046)  | 1   bolsa | $40.00
+Ojos   (plásticos o botones) | ![Captura de pantalla 2024-09-27 104828](https://github.com/user-attachments/assets/475b905b-9b45-460c-9186-93cb0e1d45b1)  | 2 | $10.00
+Cabello   (lana o sintético) | ![Captura de pantalla 2024-09-27 104910](https://github.com/user-attachments/assets/bf362d38-d898-4f04-91d7-ff3fe51b980a)  | 1   paquete | $20.00
+Pintura   (acrílica) |  ![Captura de pantalla 2024-09-27 104940](https://github.com/user-attachments/assets/ee9a8d94-2f68-42cf-a843-452eed1a8114) | 1   set | $50.00
+Ropa   (camiseta y pantalones) | ![Captura de pantalla 2024-09-27 105028](https://github.com/user-attachments/assets/f52e9d78-730a-443e-8202-29520ccabe6f)  | 1   set | $100.00
+Accesorios   (cuchillo, sombrero, etc.) | ![Captura de pantalla 2024-09-27 105118](https://github.com/user-attachments/assets/c6286b2d-6dde-4c9a-bf22-d1364286ff43)  | 1   set | $50.00
 
 
 
@@ -833,7 +834,6 @@ Enlace de la simulación del arduino
 https://wokwi.com/projects/410220307431775233
 
 Enlace del vídeo de la simulación en wokwi
-C:\Users\ADMIN\OneDrive\Escritorio\Grabación 2024-09-27 185846.mp4
 
 # Imagenes de los examenes de cisco
 Evaluación 1
