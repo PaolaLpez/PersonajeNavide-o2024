@@ -7,6 +7,8 @@ López Mata Paola Jaqueline
 El muñeco chucky navideño utilizará una placa Arduino (ESP32) que, a través de un sensor de movimiento, active luces LED y reproduzca sonidos festivos, además de tenener movimiento en ambos brazos.
 # Materiales a utilizar
 
+
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
