@@ -834,7 +834,7 @@ Enlace de la simulación del arduino
 https://wokwi.com/projects/410220307431775233
 
 Enlace del vídeo de la simulación en wokwi
-https://drive.google.com/file/d/1wE5LtTese6NqU5fKTW9noEifaDxW-YP0/view?usp=drivesdk
+https://drive.google.com/drive/u/0/folders/1VUB6ep19frxIt6X7zBgPow9K-xPnL7ng
 
 # Imagenes de los examenes de cisco
 Evaluación 1
