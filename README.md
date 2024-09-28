@@ -6,9 +6,6 @@ López Mata Paola Jaqueline
 # Explicación de su funcionamiento
 El muñeco chucky navideño utilizará una placa Arduino (ESP32) que, a través de un sensor de movimiento, active luces LED y reproduzca sonidos festivos, además de tenener movimiento en ambos brazos.
 # Materiales a utilizar
-
-
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -829,8 +826,11 @@ Thonny, Arduino
 # Dibujo del personaje
 ![WhatsApp Image 2024-09-27 at 6 20 04 PM](https://github.com/user-attachments/assets/46c79542-527e-4e89-b732-8b76ecfa529e)
 # Enlaces de simulacion de wokwi
-Enlace de simulación de wokwi
+Enlace de la casa inteligente de wokwi
 https://wokwi.com/projects/410146040842273793
+
+Enlace de la simulación del arduino
+https://wokwi.com/projects/410220307431775233
 
 Enlace del vídeo de la simulación en wokwi
 
