@@ -1,6 +1,6 @@
 # PersonajeNavideno2024
 # Nombre del personaje
-Muñeco chucky navideño
+Muñeco chucky navideño y árbol de Navidad
 # Creador
 López Mata Paola Jaqueline
 # Explicación de su funcionamiento
