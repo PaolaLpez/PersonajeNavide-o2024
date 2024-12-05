@@ -826,14 +826,28 @@ Accesorios   (cuchillo, sombrero, etc.) | ![Captura de pantalla 2024-09-27 10511
 Thonny, Arduino
 # Dibujo del personaje
 ![WhatsApp Image 2024-09-27 at 6 20 04 PM](https://github.com/user-attachments/assets/46c79542-527e-4e89-b732-8b76ecfa529e)
-# Enlaces de simulacion de wokwi
+
+# Arbol navideño
+# Explicación de funcionamiento
+Para crear un árbol navideño interactivo, necesitarás varios componentes electrónicos y materiales de construcción. El Arduino Uno será el cerebro del proyecto, controlando las luces LED RGB que decorarán el árbol y creando patrones de iluminación festivos. Un sensor de ultrasonido HC-SR04 detectará la proximidad de las personas, activando un motor servo que moverá un gorrito navideño en la parte superior del árbol. Además, un módulo de sonido reproducirá villancicos para añadir un toque musical. Todos estos componentes se montarán en una estructura hecha de cartulina o cartón, con una base sólida para mantener el árbol estable. Con el código adecuado, el árbol encenderá las luces, reproducirá música y moverá el gorrito cuando alguien se acerque, creando una experiencia navideña interactiva y divertida.
+
+# Materiales a utilizar
+
+![Captura de pantalla 2024-09-27 191515](https://github.com/user-attachments/assets/5781de0f-f037-40f0-96aa-b89066d11128)
+
+![Captura de pantalla 2024-09-27 191522](https://github.com/user-attachments/assets/b2c0935c-7ee7-4932-8258-bbe11642822c)
+# Software a utilizar
+Thonny, Arduino
+# Dibujo del personaje
+
+![Captura de pantalla 2024-09-27 192701](https://github.com/user-attachments/assets/01f83635-6659-4527-8eae-a9db2df7d7f0)                                                                                                                                                                                                                                 # Enlaces de simulacion de wokwi
 Enlace de la casa inteligente de wokwi
 https://wokwi.com/projects/410146040842273793
 
-Enlace de la simulación del arduino
+# Enlace de la simulación del arduino
 https://wokwi.com/projects/410220307431775233
 
-Enlace del vídeo de la simulación en wokwi
+# Enlace del vídeo de la simulación en wokwi
 https://drive.google.com/drive/u/0/folders/1VUB6ep19frxIt6X7zBgPow9K-xPnL7ng
 
 # Imagenes de los examenes de cisco
@@ -854,19 +868,4 @@ Evaluación 5
 
 Evaluación Final
 ![Captura de pantalla 2024-09-27 181514](https://github.com/user-attachments/assets/4ff118d3-72f7-4f28-82db-fecb4bd63164)
-
-# Arbol navideño
-# Explicación de funcionamiento
-Para crear un árbol navideño interactivo, necesitarás varios componentes electrónicos y materiales de construcción. El Arduino Uno será el cerebro del proyecto, controlando las luces LED RGB que decorarán el árbol y creando patrones de iluminación festivos. Un sensor de ultrasonido HC-SR04 detectará la proximidad de las personas, activando un motor servo que moverá un gorrito navideño en la parte superior del árbol. Además, un módulo de sonido reproducirá villancicos para añadir un toque musical. Todos estos componentes se montarán en una estructura hecha de cartulina o cartón, con una base sólida para mantener el árbol estable. Con el código adecuado, el árbol encenderá las luces, reproducirá música y moverá el gorrito cuando alguien se acerque, creando una experiencia navideña interactiva y divertida.
-
-# Materiales a utilizar
-
-![Captura de pantalla 2024-09-27 191515](https://github.com/user-attachments/assets/5781de0f-f037-40f0-96aa-b89066d11128)
-
-![Captura de pantalla 2024-09-27 191522](https://github.com/user-attachments/assets/b2c0935c-7ee7-4932-8258-bbe11642822c)
-# Software a utilizar
-Thonny, Arduino
-# Dibujo del personaje
-
-![Captura de pantalla 2024-09-27 192701](https://github.com/user-attachments/assets/01f83635-6659-4527-8eae-a9db2df7d7f0)
 
