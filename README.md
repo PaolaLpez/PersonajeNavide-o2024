@@ -848,7 +848,7 @@ Thonny, Arduino
 ![Captura de pantalla 2024-12-04 221214](https://github.com/user-attachments/assets/09f16abe-f673-4fb6-a8dd-3c53c8a2e21a)
 ![Captura de pantalla 2024-12-04 221313](https://github.com/user-attachments/assets/768161fe-75a7-4838-871c-ee8fdaf9026d)
 ![Captura de pantalla 2024-12-04 221346](https://github.com/user-attachments/assets/4889ddde-ad34-4c23-9236-c5a4cada576c)
-
+![Captura de pantalla 2024-12-04 222955](https://github.com/user-attachments/assets/42c6b614-ae61-47f6-9c53-93e3705cccdf)
 
 # Vídeos de Prácticas
 https://drive.google.com/drive/u/0/folders/1JGWPqNfQzBKjh-pq2HShLr0KHD1VMEBO
