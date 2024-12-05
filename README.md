@@ -850,6 +850,8 @@ Thonny, Arduino
 ![Captura de pantalla 2024-12-04 221346](https://github.com/user-attachments/assets/4889ddde-ad34-4c23-9236-c5a4cada576c)
 ![Captura de pantalla 2024-12-04 222955](https://github.com/user-attachments/assets/42c6b614-ae61-47f6-9c53-93e3705cccdf)
 
+# Coevaluación
+Mi compañera Valeria 
 # Vídeos de Prácticas
 https://drive.google.com/drive/u/0/folders/1JGWPqNfQzBKjh-pq2HShLr0KHD1VMEBO
 
@@ -874,3 +876,4 @@ Evaluación 6
 
 Evaluación Final
 ![Captura de pantalla 2024-12-04 213940](https://github.com/user-attachments/assets/f2923f85-a633-416f-bddc-e6ae251e7839)
+
