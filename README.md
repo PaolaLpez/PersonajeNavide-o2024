@@ -841,11 +841,17 @@ Thonny, Arduino
 # Dibujo del personaje
 
 ![Captura de pantalla 2024-09-27 192701](https://github.com/user-attachments/assets/01f83635-6659-4527-8eae-a9db2df7d7f0)                                                                                                                                                                                                                                 
-# Enlace de la simulación del arduino
-https://wokwi.com/projects/410220307431775233
+# Proceso del Arduino
+![Captura de pantalla 2024-12-04 220911](https://github.com/user-attachments/assets/66af8b68-e6ce-43e9-ac99-f67dc58154db)
+![Captura de pantalla 2024-12-04 221002](https://github.com/user-attachments/assets/26c94dc5-ce62-4c71-a958-d58287dad6f6)
+![Captura de pantalla 2024-12-04 221110](https://github.com/user-attachments/assets/90036077-cbde-4a96-b069-1ba3905db27f)
+![Captura de pantalla 2024-12-04 221214](https://github.com/user-attachments/assets/09f16abe-f673-4fb6-a8dd-3c53c8a2e21a)
+![Captura de pantalla 2024-12-04 221313](https://github.com/user-attachments/assets/768161fe-75a7-4838-871c-ee8fdaf9026d)
+![Captura de pantalla 2024-12-04 221346](https://github.com/user-attachments/assets/4889ddde-ad34-4c23-9236-c5a4cada576c)
 
-# Enlace del vídeo de la simulación en wokwi
-https://drive.google.com/drive/u/0/folders/1VUB6ep19frxIt6X7zBgPow9K-xPnL7ng
+
+# Vídeos de Prácticas
+https://drive.google.com/drive/u/0/folders/1JGWPqNfQzBKjh-pq2HShLr0KHD1VMEBO
 
 # Imagenes de los examenes de cisco
 Evaluación 1
