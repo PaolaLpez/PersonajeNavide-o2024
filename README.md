@@ -840,10 +840,7 @@ Para crear un árbol navideño interactivo, necesitarás varios componentes elec
 Thonny, Arduino
 # Dibujo del personaje
 
-![Captura de pantalla 2024-09-27 192701](https://github.com/user-attachments/assets/01f83635-6659-4527-8eae-a9db2df7d7f0)                                                                                                                                                                                                                                 # Enlaces de simulacion de wokwi
-Enlace de la casa inteligente de wokwi
-https://wokwi.com/projects/410146040842273793
-
+![Captura de pantalla 2024-09-27 192701](https://github.com/user-attachments/assets/01f83635-6659-4527-8eae-a9db2df7d7f0)                                                                                                                                                                                                                                 
 # Enlace de la simulación del arduino
 https://wokwi.com/projects/410220307431775233
 
@@ -852,20 +849,22 @@ https://drive.google.com/drive/u/0/folders/1VUB6ep19frxIt6X7zBgPow9K-xPnL7ng
 
 # Imagenes de los examenes de cisco
 Evaluación 1
-![Captura de pantalla 2024-09-27 140218](https://github.com/user-attachments/assets/b6d46b8e-a92c-436c-91eb-d0918132f99a)
+![Captura de pantalla 2024-12-04 212234](https://github.com/user-attachments/assets/0c81e5ed-f5fb-4547-98c9-8da856a4ae02)
 
 Evaluación 2
-![Captura de pantalla 2024-09-27 140249](https://github.com/user-attachments/assets/ed31d18a-7be0-4a75-b7b5-b84e4346da95)
+![Captura de pantalla 2024-12-04 212829](https://github.com/user-attachments/assets/90ff12f6-5a11-46e8-a19f-6a2ac0181b07)
 
 Evaluación 3
-![Captura de pantalla 2024-09-27 140315](https://github.com/user-attachments/assets/a25a9182-3ae8-4cb6-9624-cdec6f20c54b)
+![Captura de pantalla 2024-12-04 213005](https://github.com/user-attachments/assets/9d7bdd0e-f5a4-4d8f-9a67-90f8e7839c9a)
 
 Evaluación 4
-![Captura de pantalla 2024-09-27 140338](https://github.com/user-attachments/assets/4ae004e9-09da-4299-b218-7b5da9ca266a)
+![Captura de pantalla 2024-12-04 213246](https://github.com/user-attachments/assets/ffe05af3-6c3f-4b9a-a698-4aa5a339f13e)
 
 Evaluación 5
-![Captura de pantalla 2024-09-27 181437](https://github.com/user-attachments/assets/2d4b9f94-a5f6-41cf-8df8-58b181d00a74)
+![Captura de pantalla 2024-12-04 213520](https://github.com/user-attachments/assets/73b17848-1a56-4157-8275-127b8ab6d586)
+
+Evaluación 6
+![Captura de pantalla 2024-12-04 213808](https://github.com/user-attachments/assets/36cd6655-56c1-4061-acae-3a5074d1b071)
 
 Evaluación Final
-![Captura de pantalla 2024-09-27 181514](https://github.com/user-attachments/assets/4ff118d3-72f7-4f28-82db-fecb4bd63164)
-
+![Captura de pantalla 2024-12-04 213940](https://github.com/user-attachments/assets/f2923f85-a633-416f-bddc-e6ae251e7839)
