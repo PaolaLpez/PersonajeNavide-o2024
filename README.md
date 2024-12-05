@@ -4,7 +4,7 @@ Muñeco chucky navideño y árbol de Navidad
 # Creador
 López Mata Paola Jaqueline
 # Explicación de su funcionamiento
-El muñeco chucky navideño utiliza una placa Arduino (ESP32) que, a través de un sensor para cuando detecte movimiento mueva ambos brazos y la cabeza, además de que viene acompañado de un árbol de navidad el cual esta configurado para utilizarlo con el celular y este tiene un buser que reproduce melodias navideñas y luces led.
+El muñeco chucky navideño utiliza una placa Arduino (ESP32) que, a través de un sensor para cuando detecte movimiento mueva ambos brazos y la cabeza, además de que viene acompañado de un árbol de navidad el cual esta configurado para utilizarlo con el celular, este tiene un buser que reproduce melodias navideñas y además contiene luces led las cuales se prenden al ritmo de la melodia del buser y también pueden quedarse fijas. 
 # Materiales a utilizar
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
