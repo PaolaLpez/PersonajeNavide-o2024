@@ -853,6 +853,10 @@ Thonny, Arduino
 # Coevaluación
 Vale fue una compañera buena durante todo el proyecto. Siempre aportó ideas creativas para el muñeco de Chucky y el árbol navideño, y ayudó cuando se presentaron problemas técnicos como los de los sensores y la ropa de Chucky. Además, supo manejar muy bien los momentos de frustración, mantuvo la calma y cuando no sabía cómo hacer algo, se ponía a investigar hasta encontrar la solución. Mantuvo actitud positiva aunque a veces no sabiamos que hacer.
 
+# Vídeo de Chucky 
+https://vm.tiktok.com/ZMkethNVS/
+https://drive.google.com/drive/u/0/folders/11ZesXQw4otGaqSZAIfYIujgCzRNxD3Ki
+
 # Vídeos de Prácticas
 https://drive.google.com/drive/u/0/folders/1JGWPqNfQzBKjh-pq2HShLr0KHD1VMEBO
 
